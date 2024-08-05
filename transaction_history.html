@@ -1,0 +1,10 @@
+{% extends 'portfolio/base.html' %}
+
+{% block content %}
+<h2>Transaction History</h2>
+<ul>
+    {% for transaction in transactions %}
+        <li>{{ transaction.timestamp }} - {{ transaction.transaction_type }} - {{ transaction.stock.name }} - {{ transaction.quantity }} shares at ${{ transaction.price }} each</li>
+    {% endfor %}
+</ul>
+{% endblock %}

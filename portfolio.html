@@ -1,0 +1,11 @@
+{% extends 'portfolio/base.html' %}
+
+{% block content %}
+<h2>Portfolio</h2>
+<ul>
+    {% for holding in holdings %}
+        <li>{{ holding.stock.name }}: {{ holding.quantity }}</li>
+    {% endfor %}
+</ul>
+<p>Balance: {{ user.profile.balance }}</p>
+{% endblock %}

@@ -1,0 +1,9 @@
+{% extends 'portfolio/base.html' %}
+
+{% block content %}
+<h2>{{ data.name }}</h2>
+<p>Symbol: {{ data.symbol }}</p>
+<p>Price: {{ data.price }}</p>
+<a href="{% url 'buy_stock' stock.id %}">Buy</a>
+<a href="{% url 'sell_stock' stock.id %}">Sell</a>
+{% endblock %}

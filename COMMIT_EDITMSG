@@ -1,0 +1,40 @@
+initial commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   stock_portfolio/portfolio/.templates/base.html
+#	new file:   stock_portfolio/portfolio/.templates/buy_stock.html
+#	new file:   stock_portfolio/portfolio/.templates/portfolio.html
+#	new file:   stock_portfolio/portfolio/.templates/register.html
+#	new file:   stock_portfolio/portfolio/.templates/search_stock.html
+#	new file:   stock_portfolio/portfolio/.templates/sell_stock.html
+#	new file:   stock_portfolio/portfolio/.templates/stock_detail.html
+#	new file:   stock_portfolio/portfolio/.templates/transaction_history.html
+#	new file:   stock_portfolio/portfolio/__init__.py
+#	new file:   stock_portfolio/portfolio/__pycache__/__init__.cpython-312.pyc
+#	new file:   stock_portfolio/portfolio/__pycache__/admin.cpython-312.pyc
+#	new file:   stock_portfolio/portfolio/__pycache__/apps.cpython-312.pyc
+#	new file:   stock_portfolio/portfolio/__pycache__/models.cpython-312.pyc
+#	new file:   stock_portfolio/portfolio/admin.py
+#	new file:   stock_portfolio/portfolio/apps.py
+#	new file:   stock_portfolio/portfolio/forms.py
+#	new file:   stock_portfolio/portfolio/index.html
+#	new file:   stock_portfolio/portfolio/migrations/__init__.py
+#	new file:   stock_portfolio/portfolio/models.py
+#	new file:   stock_portfolio/portfolio/styles.css
+#	new file:   stock_portfolio/portfolio/tests.py
+#	new file:   stock_portfolio/portfolio/views.py
+#	new file:   stock_portfolio/stock_portfolio/__init__.py
+#	new file:   stock_portfolio/stock_portfolio/__pycache__/__init__.cpython-312.pyc
+#	new file:   stock_portfolio/stock_portfolio/__pycache__/settings.cpython-312.pyc
+#	new file:   stock_portfolio/stock_portfolio/__pycache__/urls.cpython-312.pyc
+#	new file:   stock_portfolio/stock_portfolio/asgi.py
+#	new file:   stock_portfolio/stock_portfolio/settings.py
+#	new file:   stock_portfolio/stock_portfolio/urls.py
+#	new file:   stock_portfolio/stock_portfolio/wsgi.py
+#
